@@ -1,0 +1,49 @@
+body {
+    font-family: sans-serif;
+}
+
+header 
+{background-color:#00FFFF ;
+border-radius: 10px;
+padding: 10px;}
+
+.ddd {
+    text-align: center;
+    border : 5px solid #FF00FF;
+    border-radius: 20px;
+    color: darkorange;
+}
+
+.d
+
+{background-color: chartreuse;}
+
+nav{
+    background-color: darkgreen;
+    margin: 10px;
+    border:;
+    border-radius: 10px;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+    border: transparent;
+    margin: 10px 25px 10px 25px;
+    padding: 10px;
+}
+
+.e
+
+{background-color: tomato;
+border-radius: 10px;
+padding: 10px;}
+
+.s {
+    padding: 10px 10px 10px 10px;
+    border-radius: 10px;
+    border: solid #00FFFF;
+}
+
+.y
+
+{color: blue;}
